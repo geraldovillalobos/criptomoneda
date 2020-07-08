@@ -1,0 +1,117 @@
+/*
+
+#titulo{
+   
+}
+.titu{
+    padding-left: 20%;
+    padding-bottom: 0;
+    margin: 0;
+font-size: 40pt;
+color: grey;
+}
+.parrafo{
+    width: 47%;
+    box-sizing: border-box;
+    float: left;
+    display: block;
+    padding-left: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+#image {
+    box-sizing: border-box;
+    display: block;
+    padding-left: 2%;
+    float: left;
+    width: 20%;
+    height: 200px;
+}
+*/
+#tiulo {
+font-size: 50pt;
+padding-left: 20%;
+margin: 0;
+}
+#parra{
+    padding-left: 34%;
+}
+#PAR{
+    margin: auto;
+    padding-top: 5px;
+    font-size: 20pt;
+    text-align: center;
+   color: #988400;
+   font-weight: bold;
+}
+#caja,#caja2{
+ 
+height: 50px;
+}
+#margen{
+    margin-left: 100px;
+}
+#title{
+    font-size: 30pt;
+    font-weight: bold;
+}
+#foto{
+    margin: 0;
+    padding:0;
+    height: 75px;
+    width: 200px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#boto{
+    background-color: #988400;
+    color: #988400;
+    font-weight: bold;
+}
+#fam{
+    color: #988400;
+    font-weight: bold;
+}
+
+p{
+line-height: 40px;
+}
+#spa{
+    color: #988400;
+font-weight: bolder;
+}
+#sub{
+    font-size: 25pt;
+}
+#men{
+    margin-left: 50px;
+}
+#pub {
+    position: fixed;
+}
+#margen2{
+    margin-left: 100px;
+    font-size: 20pt;
+    color: grey;
+    font-weight: bold;
+}
+#lista li{
+    font-size: 18pt;
+}
+#fot{
+ font-weight: bold;
+    font-size: 15pt;
+}
+#foo{
+    font-size: 15pt;
+}
